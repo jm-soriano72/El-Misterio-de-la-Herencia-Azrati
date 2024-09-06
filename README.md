@@ -1,2 +1,4 @@
 # El-Misterio-de-la-Herencia-Azrati
-Este proyecto ha sido desarrollado en su totalidad en Unity, con un diseño de puzles y un modelado del entorno original
+Este proyecto ha sido desarrollado en su totalidad en Unity, con un diseño de puzles y un modelado del entorno original.
+Se han implementado diferentes tipos de algoritmos de búsqueda para programar los distintos puzles y la secuencia de eventos.
+Cuenta con un sistema de logros que se obtienen al realizar los distintos objetivos del videojuego, obtener todos los coleccionables, derrotar a los enemigos, hacer partidas impecables...
